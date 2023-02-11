@@ -1,0 +1,188 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.navbar {
+    position: absolute;
+    width: 1728px;
+    height: 87px;
+    left: 0px;
+    top: 0px;
+
+    background: #000000;
+}
+
+.CompName {
+    position: absolute;
+    width: 180px;
+    height: 29px;
+    left: 38px;
+    top: 29px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 24px;
+    line-height: 29px;
+    /* identical to box height */
+
+
+    color: #FFFFFF;
+
+}
+
+.Para {
+    position: absolute;
+    width: 1624px;
+    height: 546px;
+    left: 38px;
+    top: 245px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 24px;
+    line-height: 29px;
+
+    color: #000000;
+
+}
+
+.button {
+    position: absolute;
+    width: 226px;
+    height: 58px;
+    left: 38px;
+    top: 518px;
+
+    background: #000000;
+}
+
+button {
+    position: absolute;
+    width: 129px;
+    height: 33px;
+    left: 87px;
+    top: 530px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 24px;
+    line-height: 29px;
+
+    color: #FFFFFF;
+}
+
+.FirstHeading {
+
+    position: absolute;
+    width: 600px;
+    height: 144px;
+    left: 38px;
+    top: 140px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 64px;
+    line-height: 77px;
+
+    color: #000000;
+
+}
+
+.SecondHeading {
+    position: absolute;
+    width: 600px;
+    height: 144px;
+    left: 38px;
+    top: 669px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 64px;
+    line-height: 77px;
+
+    color: #000000;
+
+}
+
+.Img-1 {
+    position: absolute;
+    width: 729px;
+    height: 911px;
+    left: 38px;
+    top: 831px;
+
+    background: #D9D9D9;
+}
+
+.HeadingList {
+    position: absolute;
+    width: 600px;
+    height: 144px;
+    left: 38px;
+    top: 1782px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 64px;
+    line-height: 77px;
+
+    color: #000000;
+}
+
+.OrderList {
+
+    position: absolute;
+    width: 1624px;
+    height: 174px;
+    left: 38px;
+    top: 1899px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 24px;
+    line-height: 29px;
+
+    color: #000000;
+
+}
+
+.HeadingList-1 {
+    position: absolute;
+    width: 600px;
+    height: 144px;
+    left: 38px;
+    top: 2113px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 64px;
+    line-height: 77px;
+
+    color: #000000;
+}
+
+.UnorderList {
+    position: absolute;
+    width: 1624px;
+    height: 174px;
+    left: 38px;
+    top: 2230px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 24px;
+    line-height: 29px;
+
+    color: #000000;
+
+}
